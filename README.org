@@ -1,0 +1,11 @@
+* Investment Property App
+
+An app for finding investment properties for sale in dublin,
+with high comparable ROI
+
+combines the following find the best deals:
+- datamining 
+- nlp
+- data cleaning
+- feature creation
+
